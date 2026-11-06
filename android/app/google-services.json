@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725934729691",
+    "project_id": "rvr-foundations",
+    "storage_bucket": "rvr-foundations.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725934729691:android:f9561cfdbeb18aa519dffe",
+        "android_client_info": {
+          "package_name": "com.digitalhubtech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDeWKzdR0EB3dgnEKHFPmVhkQvpU2PG8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
